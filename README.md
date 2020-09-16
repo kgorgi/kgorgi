@@ -10,7 +10,6 @@ My name is Kian and I am a software developer writing code and solving problems 
 - 🐬 Currently exploring iOS and Android development with the [Ionic Framework](https://ionicframework.com/).
 
 <br/>
-<br/>
 <p align='center'>
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
