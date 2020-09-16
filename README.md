@@ -22,4 +22,5 @@ My name is Kian and I am a software developer writing code and solving problems 
     <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">
     <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?&style=for-the-badge&logo=Ionic&logoColor=white">
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white">
 </p>
