@@ -19,8 +19,8 @@ Projects that were created when I was not swamped with university work.
  
 Neat and interesting course projects that I completed during my studies at the University of Victoria. 
 
-- 🔥 [Deep Fire: A Machine Learning Project to Detect Wildfires](https://github.com/devlyn37/Deepfire) (Python, Keras, TensorFlow)
-- 💰 [A Scalable Day Trader System](https://github.com/kgorgi/seng-468) (Golang and MongoDB)
+- 🔥 [Deep Fire: Machine Learning Wildfire Detection](https://github.com/devlyn37/Deepfire) (Python, Keras, TensorFlow)
+- 💰 [Distributed Day Trader System](https://github.com/kgorgi/seng-468) (Golang and MongoDB)
 - 🏷 [Multi-Label IMDb Movie Genre Classifier](https://github.com/ChrisWNorton/SENG474Project) (Python)
 - 🐬 [Oceans 2.0 Dashboard Prototype](https://github.com/kgorgi/Oceans-2.0-Dashboards) (JavaScript and React)
 - 🦴 [Barebones Instant Messenger](https://github.com/kgorgi/Barebones-Instant-Messenger) (Python)
