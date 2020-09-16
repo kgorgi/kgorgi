@@ -4,12 +4,18 @@
 
 My name is Kian and I am a software developer writing code and solving problems in Victoria, Canada. 
 
-- ⛵️ I am working on integrating IoT devices with boats at [BRNKL](http://brnkl.io/).
+- ⛵️ I am currently working on integrating IoT devices with boats at [BRNKL](http://brnkl.io/).
 - 🎓 Recent graduate at the University of Victoria in Software Engineering.
-- 👨‍💻 Check out all my projects I have worked on [here](https://github.com/kgorgi/kgorgi/blob/master/PROJECTS.md). 
-- 🐬 Currently exploring iOS and Android development with the [Ionic Framework](https://ionicframework.com/).
+- 🐬 In my free time I am exploring iOS and Android development with the [Ionic Framework](https://ionicframework.com/).
 
-<br/>
+### Projects 👨‍💻
+
+👉 Check out all the cool projects that I have worked on [here!](https://github.com/kgorgi/kgorgi/blob/master/PROJECTS.md) 
+
+### Tech 🛠
+
+Below is some of the tech I have used professionally and to build side projects. 
+
 <p align='center'>
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
