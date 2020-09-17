@@ -12,14 +12,14 @@ Projects that were created when I was not swamped with university work.
 - 🔗 Course Links: A Website to Visualize University Course Pre-requisites
     - [Course Links UI](https://github.com/kgorgi/CourseLinks-UI) (TypeScript and React)
     - [Course Links Web Scraper](https://github.com/kgorgi/CourseLinks-Web-Scraper) (C#) 
-- 🐍 [Battlesnake (2019)](https://github.com/dragonprevost/battlesnake2019) (Python)
-- 🐍 [Battlesnake (2018)](https://github.com/kgorgi/BattleSnake-2018) (Python)
+- 🐍 [Battlesnake (2019)](https://github.com/kgorgi/Battlesnake-2019) (Python)
+- 🐍 [Battlesnake (2018)](https://github.com/kgorgi/Battlesnake-2018) (Python)
 
 ## University Course Projects 🏫
  
 Neat and interesting course projects that I completed during my studies at the University of Victoria. 
 
-- 🔥 [Deep Fire: Machine Learning Wildfire Detection](https://github.com/devlyn37/Deepfire) (Python, Keras, TensorFlow)
+- 🔥 [Deepfire: Machine Learning Wildfire Detection](https://github.com/devlyn37/Deepfire) (Python, Keras, TensorFlow)
 - 💰 [Distributed Day Trader System](https://github.com/kgorgi/Distributed-Day-Trading-System) (Golang and MongoDB)
 - 🏷 [Multi-Label IMDb Movie Genre Classifier](https://github.com/ChrisWNorton/SENG474Project) (Python)
 - 🐬 [Oceans 2.0 Dashboard Prototype](https://github.com/kgorgi/Oceans-2.0-Dashboards) (JavaScript and React)
