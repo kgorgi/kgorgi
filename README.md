@@ -14,7 +14,7 @@ My name is Kian and I am a software developer writing code and solving problems 
 
 ### Tech 🛠
 
-Below is some of the tech I have used professionally and to build side projects. 
+Below is some of the tech I have used professionally and on the side. 
 
 <p align='center'>
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
