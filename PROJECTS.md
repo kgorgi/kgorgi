@@ -3,7 +3,7 @@
 Below is the list of all the GitHub projects I have created or contributed to. 
 
 ## Side Projects ⌨️
-- There is nothing here yet...but there will something here soon 🤔
+- 🐍 [TypeScript Starter Snake](https://github.com/kgorgi/starter-snake-node-ts) (for Battlesnake)
 
 ## University Side Projects 🧑‍🎓
 
