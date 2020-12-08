@@ -2,19 +2,19 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kgorgi.readme)
 
-My name is Kian and I am a software developer writing code and solving problems in Victoria, Canada. 
+My name is Kian and I am a software developer writing code and solving problems in Victoria, BC, Canada.
 
-- ⛵️ I am currently working on integrating IoT devices with boats at [BRNKL](http://brnkl.io/).
-- 🎓 Recent graduate at the University of Victoria in Software Engineering.
-- 🐬 In my free time I am exploring iOS and Android development with the [Ionic Framework](https://ionicframework.com/).
+-   🔋 I'm working at Microsoft as a software developer on the Business Applications Group's Data Integration team.
+-   🎓 I graduated from the University of Victoria's Software Engineering program in 2020.
+-   🐬 I am exploring hybrid iOS and Android development with the [Ionic Framework](https://ionicframework.com/).
 
 ### Projects 👨‍💻
 
-👉 Check out all the cool projects that I have worked on [here!](https://github.com/kgorgi/kgorgi/blob/master/PROJECTS.md) 
+👉 Check out all the cool projects that I have worked on [here!](https://github.com/kgorgi/kgorgi/blob/master/PROJECTS.md)
 
 ### Tech 🛠
 
-Below is some of the tech I have used professionally and on the side. 
+Below is some of the tech I have used professionally and on the side.
 
 <p align='center'>
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
