@@ -6,7 +6,7 @@ My name is Kian and I am a software developer writing code and solving problems 
 
 -   🔋 I'm working at Microsoft as a software developer on the Business Applications Group's Data Integration team.
 -   🎓 I graduated from the University of Victoria's Software Engineering program in 2020.
--   🐬 I am exploring hybrid iOS and Android development with the [Ionic Framework](https://ionicframework.com/).
+-   🐬 I'm exploring hybrid iOS and Android development with the [Ionic Framework](https://ionicframework.com/).
 
 ### Projects 👨‍💻
 
