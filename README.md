@@ -4,7 +4,6 @@ My name is Kian and I am a software developer in Victoria, BC, Canada.
 
 -   🔨 I enjoy building high impact software with great documentation and test coverage.
 -   💻 I work at Microsoft with a focus on infrastructure, deployment, diagnostics, single sign-on authentication, data connectivity, and data migration.
--   🐬 Whenever I track down some free time, I explore hybrid iOS and Android development with the [Ionic Framework](https://ionicframework.com/).
 
 ### Projects 👨‍💻
 
