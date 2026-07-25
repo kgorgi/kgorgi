@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kgorgi.readme)
-
 My name is Kian and I am a software developer in Victoria, BC, Canada.
 
 -   🔨 I enjoy building high impact software with great documentation and test coverage.
